@@ -13,7 +13,7 @@ $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
 $white: #fff;
-
+$pink: #ff33cc
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -24,4 +24,3 @@ $georgia: Georgia, serif;
   @media screen and (max-width: 640px) {
     @content;
   }
-}
