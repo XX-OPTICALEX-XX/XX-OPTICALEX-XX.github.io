@@ -1,5 +1,5 @@
 ---
-title: Using Github week 5
+title: Using Github week 4
 layout: post
 author: alexander.morgan-tim
 permalink: /using-github-week-5/
