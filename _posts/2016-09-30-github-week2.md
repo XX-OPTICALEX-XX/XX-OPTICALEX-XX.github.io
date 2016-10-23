@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Making a blog</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>15/9/16</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>made a static website</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Change my background </td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> no</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I tried to change my code but as all of you that read my blogs know I am not exactly the greatest coder or person with a computer I could be referred to an old granny for my skill is infamously bad.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>I thought when I changed something it was correct yet I didn't re-fresh my page so once I had changed 10 things I finally got stuck so I asked for helped and turned out everything I had changed didn't work so I was trying for the rest of the hour to fix it</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will completely refresh the code and start from square one</td>
