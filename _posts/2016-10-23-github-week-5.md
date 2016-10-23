@@ -50,7 +50,7 @@ published: true
     <td>Although I have got a lot done I have limited my learning by thinking there wasn’t anything else to do so I didn’t take my Ipad to make notes on, so after we were sent back and work on my blog I was stuck for what to do so I had to search up how to add a google sheet onto github. That would have been passable if it hadn’t confused me more so I ended up asking what to do.  </td>
   </tr>
   <tr>
-    <th>What will I change for next time? How will I improve my learning?</th>
+    <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
     <td>Next time I can’t think that I’m done until I have thought of every possibility (in my ability) to improve my work so I can get the highest mark and show my effort reflects my grade.</td>
