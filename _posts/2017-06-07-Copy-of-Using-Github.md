@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github
+title: Well I'm back
 layout: post
 author: alexander.morgan-tim
 permalink: /copy-of-using-github/
@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>I'm back!!</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>07/06/17</td>
   </tr>
 </table>
