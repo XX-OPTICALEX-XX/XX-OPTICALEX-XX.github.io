@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Glorious</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>19/07/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>A meme</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Insert a image/gif</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> </td>
   </tr>
 </table>
@@ -38,23 +38,20 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>This is a recap of the entire year and in any hope if anyone actually reads this that I've taught you something or at least made you laugh at how bad I’ve been</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>Pretty much my skill and competence was the thing holding me back so if you're not me there is a good chance you’ll be able to do half the stuff I couldn’t</td>
   </tr>
 <table>
   <tr>
-  <td>GLORIOUS</td>
-  </tr>
-  <tr>
-    <td>GLORIOUS</td>
+    <th>GLORIOUS</th>
   </tr>
     <td>
   
