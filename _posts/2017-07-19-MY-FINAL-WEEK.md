@@ -61,6 +61,4 @@ published: true
 </table>
 
 
-</table>
-
 
