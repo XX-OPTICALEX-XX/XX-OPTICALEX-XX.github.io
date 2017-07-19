@@ -49,12 +49,21 @@ published: true
   <tr>
     <td>Pretty much my skill and competence was the thing holding me back so if you're not me there is a good chance you’ll be able to do half the stuff I couldn’t</td>
   </tr>
+<table>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+  <td>GLORIOUS</td>
   </tr>
   <tr>
-    <td></td>
+    <td>GLORIOUS</td>
   </tr>
+    <td>
+  
+  <img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwikpePY-JTVAhWIbRQKHYt_AGgQjRwIBw&url=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2F%252Abobby-roode&psig=AFQjCNGLSKhTYlAfPy9u0QaQQK8FfiNyyw&ust=1500539796033163" alt="GLORIOUS" style="width:304px;height:228px;">
+  
+  <td>
+</table>
+
+
 </table>
 
 
